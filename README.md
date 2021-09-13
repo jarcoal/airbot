@@ -1,0 +1,2 @@
+# airbot
+Airthings Waveplus + Python
